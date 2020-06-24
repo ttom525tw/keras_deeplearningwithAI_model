@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/085/17/0010851751.jpg&v=5e5f833c&w=348&h=348" />
+</p>
+<div>
+
 # keras_deeplearningwithAI_model
 ### 本篇專案為參與 [人工智慧與深度學習：理論與Python實踐](https://www.books.com.tw/products/0010851751?sloc=main) 一書並協助作者編寫之範例，主要內容為介紹人工智慧相關的演算法理論基礎以及完整的數學推導過程，在各章節後面接輔以python範例實踐演算法。
 ### 本書特色：
@@ -31,3 +36,4 @@
 + 注意力模型 (Attention-based Models)
 
 #### Note:非常榮幸可以為作者邀請參與編寫該書之範例，其中詳細的理論講述以及數學推導的內容非常詳細且淺顯易懂，也推薦對於人工智慧相關演算法以及深度學習模型有興趣的人可以透過連結實際購買並研讀。
+ </div> 
