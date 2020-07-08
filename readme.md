@@ -32,7 +32,7 @@
 + 深度信念網路（Deep Belief Network, DBN）
 + 自編碼器 (Autoencoder)
 + VAE(Variational AutoEncoder) 
-+ 生成對抗網路 (Generative Adversarial Networ, GAN）
++ 生成對抗網路 (Generative Adversarial Network, GAN）
 + 注意力模型 (Attention-based Models)
 
 #### Note:非常榮幸可以為作者邀請參與編寫該書之範例，其中詳細的理論講述以及數學推導的內容非常詳細且淺顯易懂，也推薦對於人工智慧相關演算法以及深度學習模型有興趣的人可以透過連結實際購買並研讀。
